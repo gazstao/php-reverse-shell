@@ -1,4 +1,3 @@
 # php-reverse-shell
 
-- python interative shell:
->> python3 -c 'import pty; pty.spawn("/bin/bash")'
+- aftershell python interative: python3 -c 'import pty; pty.spawn("/bin/bash")'
